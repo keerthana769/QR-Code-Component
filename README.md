@@ -45,4 +45,4 @@ I feel the project isn’t fully responsive yet, so I plan to continue working o
 ## Author
 
 - Frontend Mentor - [@keerthana769](https://www.frontendmentor.io/profile/keerthana769)
-- LinkedIn - [@keerthana-gurram](www.linkedin.com/in/keerthana-gurram)
+- LinkedIn - [@keerthana-gurram](https://www.linkedin.com/in/keerthana-gurram/)
