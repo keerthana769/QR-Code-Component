@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/Screenshot%20(324).png)
+![](./images/Screenshot%20(328).png)
 
 ### Links
 
@@ -36,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Flexbox, flex-direction, flex-layout, flex-sizing.
+Flexbox, flex-direction, flex-layout, flex-sizing, fit-content.
 
 ### Continued development
 
