@@ -11,6 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -41,6 +42,10 @@ Flexbox, flex-direction, flex-layout, flex-sizing, fit-content.
 ### Continued development
 
 I feel the project isn’t fully responsive yet, so I plan to continue working on making it adapt seamlessly to all screen sizes.
+
+### Useful resources
+
+- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/fit-content) - This resource helped me to understand fit contents.
 
 ## Author
 
