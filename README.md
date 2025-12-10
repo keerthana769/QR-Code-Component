@@ -1,6 +1,3 @@
-# Frontend Mentor - QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -9,8 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -33,19 +28,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Responsiveness
-
-### What I learned
-
-Flexbox, flex-direction, flex-layout, flex-sizing, fit-content.
-
-### Continued development
-
-I feel the project isn’t fully responsive yet, so I plan to continue working on making it adapt seamlessly to all screen sizes.
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/fit-content) - This resource helped me to understand fit contents.
+- [Resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/fit-content) - This resource helped me to understand fit contents.
 
 ## Author
 
